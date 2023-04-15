@@ -14,6 +14,7 @@ body{
     padding: 0 1em 0 0;
 }
 .menu li a{
+    background: rgb(123, 123, 133);
     text-decoration: none;
     color: rgb(170, 30, 30);
     font-weight: bold;
