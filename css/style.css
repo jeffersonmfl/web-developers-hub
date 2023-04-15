@@ -15,7 +15,7 @@ body{
 }
 .menu li a{
     text-decoration: none;
-    color: black;
+    color: rgb(170, 30, 30);
     font-weight: bold;
 }
 header, section, footer{
